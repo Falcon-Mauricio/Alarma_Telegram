@@ -36,7 +36,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Main_ESP32_DEVKIT_V1.kicad_pro",
+    "filename": "MainBoard_ESP32Module.kicad_pro",
     "version": 1
   },
   "net_settings": {

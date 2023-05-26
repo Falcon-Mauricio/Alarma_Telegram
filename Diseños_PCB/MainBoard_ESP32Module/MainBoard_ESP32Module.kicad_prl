@@ -68,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Main_ESP32_DEVKIT_V1.kicad_prl",
+    "filename": "MainBoard_ESP32Module.kicad_prl",
     "version": 3
   },
   "project": {
