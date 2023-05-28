@@ -3,7 +3,8 @@ Repositorio dedicado al desarrollo de una alarma wifi que envia mensajes por "Te
 
 Se trata de un dispositivo de seguridad que utiliza un sensor PIR para vigilar constantemente el área en la que se enfoca. Cuando detecta movimiento, el microcontrolador seleccionado (en este caso, el ESP8266) que está conectado al sensor, envía un mensaje al usuario a través de un BOT de Telegram que le advierte de la activación. Al mismo tiempo, el buzzer se activa intermitentemente para simular una alarma.
 
-![image](https://github.com/Falcon-Mauricio/Alarma_Telegram/assets/105568570/7151ac97-8817-4ae3-841a-435522900665)
+![Alarma_WIFI_telegram](https://github.com/Falcon-Mauricio/Alarma_Telegram/assets/105568570/44cea2d4-13a0-4928-9ed5-3acaa5ed111a)
+
 
 Este dispositivo es una solución efectiva para la seguridad en el hogar o en cualquier área en la que se requiera una vigilancia constante. Además, la integración con el BOT de Telegram permite una rápida notificación al usuario en caso de una posible intrusión o actividad sospechosa.
 
